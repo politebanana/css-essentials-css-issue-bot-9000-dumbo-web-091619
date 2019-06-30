@@ -10,7 +10,8 @@ h1 {
 h2 {
   color: green;
   
-  font-stylefont-weight: normal: italic;
+  font-style:italic;
+  font-weight: normal;
 }
 
 .completed {
